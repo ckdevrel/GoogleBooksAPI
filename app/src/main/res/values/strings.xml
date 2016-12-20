@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleBooksAPI</string>
+    <string name="empty_list_message">Unable to fetch book list because of bad internet or server issue. Pull to refresh the data again.</string>
+</resources>
